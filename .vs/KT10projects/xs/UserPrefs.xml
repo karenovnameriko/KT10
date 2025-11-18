@@ -1,27 +1,24 @@
 ﻿<Properties StartupConfiguration="{A759844A-D76B-492A-8432-C870CC5347EC}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="KT10_3/Program.cs">
-    <Files>
-      <File FileName="KT10_1/Program.cs" Line="126" Column="51" />
-      <File FileName="KT10_2/Program.cs" Line="95" Column="1" />
-      <File FileName="KT10_3/Program.cs" Line="124" Column="14" />
-    </Files>
+  <MonoDevelop.Ide.ItemProperties.KT10__1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="KT10projects">
-            <Node name="KT10_3">
+            <Node name="KT10_1" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
+            <Node name="KT10_2" expanded="True" />
+            <Node name="KT10_3" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.KT10__1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
