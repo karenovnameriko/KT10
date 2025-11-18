@@ -1,0 +1,14 @@
+/Users/merykarenovna/Projects/KT10projects/KT10_2/bin/Debug/net8.0/KT10_2
+/Users/merykarenovna/Projects/KT10projects/KT10_2/bin/Debug/net8.0/KT10_2.deps.json
+/Users/merykarenovna/Projects/KT10projects/KT10_2/bin/Debug/net8.0/KT10_2.runtimeconfig.json
+/Users/merykarenovna/Projects/KT10projects/KT10_2/bin/Debug/net8.0/KT10_2.dll
+/Users/merykarenovna/Projects/KT10projects/KT10_2/bin/Debug/net8.0/KT10_2.pdb
+/Users/merykarenovna/Projects/KT10projects/KT10_2/obj/Debug/net8.0/KT10_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merykarenovna/Projects/KT10projects/KT10_2/obj/Debug/net8.0/KT10_2.AssemblyInfoInputs.cache
+/Users/merykarenovna/Projects/KT10projects/KT10_2/obj/Debug/net8.0/KT10_2.AssemblyInfo.cs
+/Users/merykarenovna/Projects/KT10projects/KT10_2/obj/Debug/net8.0/KT10_2.csproj.CoreCompileInputs.cache
+/Users/merykarenovna/Projects/KT10projects/KT10_2/obj/Debug/net8.0/KT10_2.dll
+/Users/merykarenovna/Projects/KT10projects/KT10_2/obj/Debug/net8.0/refint/KT10_2.dll
+/Users/merykarenovna/Projects/KT10projects/KT10_2/obj/Debug/net8.0/KT10_2.pdb
+/Users/merykarenovna/Projects/KT10projects/KT10_2/obj/Debug/net8.0/KT10_2.genruntimeconfig.cache
+/Users/merykarenovna/Projects/KT10projects/KT10_2/obj/Debug/net8.0/ref/KT10_2.dll
